@@ -1,0 +1,4 @@
+//TODO: Game Design: Finalizar Game Design da Stage 1
+//TODO: Game Design: Definir Inimigos da Stage 1 e seus atributos (dano, tipos de tiros, gift e malware, etc)
+//TODO: Game Design: Documentar o que for definido
+//TODO: Concept dos Assets
