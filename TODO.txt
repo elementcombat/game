@@ -1,3 +1,1 @@
-//TODO: Modelagem do Sistema
-//TODO: Ciclo de Vida do Sistema
-//TODO: Estudos de Frameworks
+//TODO: Concept e Estudos dos Effects e Motion do Projeto
