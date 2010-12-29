@@ -1,3 +1,3 @@
-//TODO: Modelagem do Sistema
-//TODO: Ciclo de Vida do Sistema
+//DOING: Modelagem do Sistema
+//DOING: Ciclo de Vida do Sistema
 //TODO: Estudos de Frameworks
