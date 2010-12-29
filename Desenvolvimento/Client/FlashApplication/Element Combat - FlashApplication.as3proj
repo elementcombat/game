@@ -4,7 +4,7 @@
   <output>
     <movie disabled="False" />
     <movie input="" />
-    <movie path="bin\ElementCombatFlashApplication.swf" />
+    <movie path="bin\game.swf" />
     <movie fps="30" />
     <movie width="800" />
     <movie height="600" />
@@ -14,6 +14,7 @@
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
     <class path="src" />
+    <class path="lib" />
   </classpaths>
   <!-- Build options -->
   <build>
@@ -37,7 +38,7 @@
     <option linkReport="" />
     <option loadExterns="" />
     <option staticLinkRSL="True" />
-    <option additional="" />
+    <option additional="-frame start ElementCombat.Game.FrameStart" />
     <option compilerConstants="" />
     <option customSDK="" />
   </build>
@@ -47,11 +48,11 @@
   </includeLibraries>
   <!-- SWC Libraries -->
   <libraryPaths>
-    <element path="lib\Geleca.1.0.swc" />
+    <element path="lib\External\Geleca.1.0.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
-    <!-- example: <element path="..." /> -->
+    <element path="bin\swf\asset\loader.swc" />
   </externalLibraryPaths>
   <!-- Runtime Shared Libraries -->
   <rslPaths>
@@ -67,7 +68,7 @@
   </library>
   <!-- Class files to compile (other referenced classes will automatically be included) -->
   <compileTargets>
-    <compile path="src\Main.as" />
+    <compile path="src\ElementCombat\Game\View\MainView.as" />
   </compileTargets>
   <!-- Paths to exclude from the Project Explorer tree -->
   <hiddenPaths>
