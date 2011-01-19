@@ -17,19 +17,15 @@
       <value>'19/01/2011'</value>
     </define>
     <source-path append="true">
-      <path-element>D:\Ramon\Games\Elemental Combat\Hype Framework\src</path-element>
-      <path-element>D:\Ramon\Games\Elemental Combat\Hype Framework\lib</path-element>
+      <path-element>D:\Ramon\Games\Elemental Combat\FlashDevelop Test\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>D:\Ramon\Games\Elemental Combat\Hype Framework\lib\hype-framework.swc</path-element>
-      <path-element>D:\Ramon\Games\Elemental Combat\Hype Framework\lib\hype-extended.swc</path-element>
-      <path-element>D:\Ramon\Games\Elemental Combat\Hype Framework\lib\External\Geleca.1.0.swc</path-element>
-      <path-element>D:\Ramon\Games\Elemental Combat\Hype Framework\asset\swc\Hype.swc</path-element>
+      <path-element>D:\Ramon\Games\Elemental Combat\FlashDevelop Test\asset\swc\Hype.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>D:\Ramon\Games\Elemental Combat\Hype Framework\src\Main.as</path-element>
+    <path-element>D:\Ramon\Games\Elemental Combat\FlashDevelop Test\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
