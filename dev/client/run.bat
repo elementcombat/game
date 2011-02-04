@@ -1,0 +1,1 @@
+D:\cristiano\flex-sdk\4.5.0.19786\bin\adl.exe application.xml test.swf

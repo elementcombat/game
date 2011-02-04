@@ -19,12 +19,12 @@ package Game.Engine.Display
 		
 		public function moveRight():void 
 		{
-			this.x += 5;
+			this.x += 25;
 		}
 		
 		public function moveLeft():void 
 		{
-			this.x -= 5;
+			this.x -= 25;
 		}
 		
 	}
